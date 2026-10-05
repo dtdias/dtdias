@@ -70,12 +70,12 @@
 ## Atividade no GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dtdias&show_icons=true&hide_border=true&rank_icon=github&bg_color=0b1020&title_color=f8fafc&text_color=a8b3cf&icon_color=22d3ee" alt="Estatísticas do GitHub de Daniel" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtdias&layout=compact&langs_count=8&hide_border=true&bg_color=0b1020&title_color=f8fafc&text_color=a8b3cf" alt="Linguagens mais usadas por Daniel" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub de Daniel" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Linguagens mais usadas por Daniel" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dtdias&theme=github_dark" alt="Resumo de contribuições de Daniel no GitHub" width="96%" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Resumo de contribuições de Daniel no GitHub" width="96%" />
 </p>
 
 ## Contato
