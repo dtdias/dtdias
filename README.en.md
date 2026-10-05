@@ -3,65 +3,65 @@
 </p>
 
 <p align="center">
-  <a href="./README.en.md">Read in English</a>
+  <a href="./README.md">Leia em português</a>
   <span>&nbsp;·&nbsp;</span>
   <a href="https://www.linkedin.com/in/danieltrajanod/">LinkedIn</a>
   <span>&nbsp;·&nbsp;</span>
-  <a href="mailto:danieltrajano.d@gmail.com">E-mail</a>
+  <a href="mailto:danieltrajano.d@gmail.com">Email</a>
 </p>
 
-<h1 align="center">Full Stack Developer criando produtos úteis.</h1>
+<h1 align="center">Full Stack Developer building useful things.</h1>
 
 <p align="center">
-  Construo produtos web, ferramentas de automação e fluxos confiáveis.<br />
-  Rio de Janeiro, Brasil.
+  I build web products, automation tools, and reliable workflows.<br />
+  Based in Rio de Janeiro, Brazil.
 </p>
 
 <p align="center">
-  <a href="https://github.com/dtdias?tab=followers"><img src="https://img.shields.io/github/followers/dtdias?style=for-the-badge&logo=github&label=Seguidores&labelColor=09131B&color=FF652F" alt="Seguidores no GitHub" /></a>
-  <a href="https://github.com/dtdias?tab=repositories"><img src="https://img.shields.io/github/stars/dtdias?style=for-the-badge&logo=github&label=Estrelas&labelColor=09131B&color=FFE400" alt="Estrelas no GitHub" /></a>
-  <a href="https://www.linkedin.com/in/danieltrajanod/"><img src="https://img.shields.io/badge/LinkedIn-conectar-09131B?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="Conecte-se no LinkedIn" /></a>
+  <a href="https://github.com/dtdias?tab=followers"><img src="https://img.shields.io/github/followers/dtdias?style=for-the-badge&logo=github&label=Followers&labelColor=09131B&color=FF652F" alt="GitHub followers" /></a>
+  <a href="https://github.com/dtdias?tab=repositories"><img src="https://img.shields.io/github/stars/dtdias?style=for-the-badge&logo=github&label=Stars&labelColor=09131B&color=FFE400" alt="GitHub stars" /></a>
+  <a href="https://www.linkedin.com/in/danieltrajanod/"><img src="https://img.shields.io/badge/LinkedIn-connect-09131B?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="Connect on LinkedIn" /></a>
 </p>
 
-## O que construo
+## What I build
 
-- Produtos que transformam trabalho operacional em fluxos claros.
-- Automações que removem etapas repetitivas e facilitam decisões.
-- Sistemas full stack com limites sólidos para dados, acesso e entrega.
+- Product experiences that turn messy operational work into clear workflows.
+- Automation that removes repetitive steps and makes decisions easier.
+- Full-stack systems with strong boundaries around data, access, and delivery.
 
-## Projetos em destaque
+## Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dtdias/status-board">Status Board</a></h3>
-      <p>Transforma o trabalho operacional semanal em relatórios PPTX claros, editáveis e versionados.</p>
+      <p>Turns weekly operational work into clear, editable, versioned PPTX reports.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code></p>
-      <a href="https://statusboard.trajano.dev.br/login">Abrir projeto</a>
+      <a href="https://statusboard.trajano.dev.br/login">Open project</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dtdias/BidInAction">BidInAction</a></h3>
-      <p>Ferramenta desktop para filtrar leilões de joias no portal de leilões da Caixa.</p>
+      <p>Desktop tool for filtering jewelry auctions from the Caixa auction portal.</p>
       <p><code>Python</code> <code>PySide6</code> <code>Requests</code></p>
-      <a href="https://github.com/dtdias/BidInAction">Ver repositório</a>
+      <a href="https://github.com/dtdias/BidInAction">View repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/dtdias/find-engineering-price">Find Engineering Price</a></h3>
-      <p>Projeto de ambiente de desenvolvimento explorando ferramentas e automação de aplicações.</p>
+      <p>Development environment project exploring application tooling and automation.</p>
       <p><code>EJS</code> <code>JavaScript</code> <code>Docker</code></p>
-      <a href="https://github.com/dtdias/find-engineering-price">Ver repositório</a>
+      <a href="https://github.com/dtdias/find-engineering-price">View repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Agora</h3>
-      <p>Construindo software prático com equilíbrio entre visão de produto, interfaces limpas e engenharia confiável.</p>
-      <p><code>Construir</code> <code>Aprender</code> <code>Melhorar</code></p>
+      <h3>Now</h3>
+      <p>Shaping practical software with a balance of product thinking, clean interfaces, and dependable engineering.</p>
+      <p><code>Build</code> <code>Learn</code> <code>Improve</code></p>
     </td>
   </tr>
 </table>
 
-## Ferramentas
+## Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -78,22 +78,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Atividade no GitHub
+## GitHub activity
 
 <p align="center">
-  <img height="180" src="./profile-summary-card-output/codeSTACKr/3-stats.svg" alt="Estatísticas do GitHub de Daniel" />
-  <img height="180" src="./profile-summary-card-output/codeSTACKr/1-repos-per-language.svg" alt="Linguagens mais usadas por Daniel" />
+  <img height="180" src="./profile-summary-card-output/codeSTACKr/3-stats.svg" alt="Daniel's GitHub stats" />
+  <img height="180" src="./profile-summary-card-output/codeSTACKr/1-repos-per-language.svg" alt="Daniel's top languages" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/codeSTACKr/0-profile-details.svg" alt="Resumo de contribuições de Daniel no GitHub" width="96%" />
+  <img src="./profile-summary-card-output/codeSTACKr/0-profile-details.svg" alt="Daniel's GitHub contribution summary" width="96%" />
 </p>
 
-## Contato
+## Connect
 
 <p>
   <a href="https://www.linkedin.com/in/danieltrajanod/">LinkedIn</a> ·
   <a href="mailto:danieltrajano.d@gmail.com">danieltrajano.d@gmail.com</a>
 </p>
 
-<p><sub>Aberto a boas conversas sobre software, produtos e engenharia.</sub></p>
+<p><sub>Open to thoughtful conversations about software, products, and engineering.</sub></p>
