@@ -10,7 +10,7 @@
   <a href="mailto:danieltrajano.d@gmail.com">Email</a>
 </p>
 
-<h1 align="center">Full Stack Developer building useful things.</h1>
+<h1 align="center">Welcome to my profile!</h1>
 
 <p align="center">
   I build web products, automation tools, and reliable workflows.<br />
