@@ -82,12 +82,15 @@
 
 <p align="center">
   <img height="180" src="./profile-summary-card-output/codeSTACKr/3-stats.svg" alt="Estatísticas do GitHub de Daniel" />
-  <img height="180" src="./profile-summary-card-output/codeSTACKr/1-repos-per-language.svg" alt="Linguagens mais usadas por Daniel" />
+  <img height="180" src="./profile-summary-card-output/codeSTACKr/1-repos-per-language.svg" alt="Linguagens mais usadas por repo" />
+  <img height="180" src="./profile-summary-card-output/codeSTACKr/2-most-commit-language.svg" alt="Linguagens mais usadas por commit" />
 </p>
 
 <p align="center">
   <img src="./profile-summary-card-output/codeSTACKr/0-profile-details.svg" alt="Resumo de contribuições de Daniel no GitHub" width="96%" />
 </p>
+
+
 
 ## Contato
 
