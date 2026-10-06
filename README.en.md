@@ -82,12 +82,14 @@
 
 <p align="center">
   <img height="180" src="./profile-summary-card-output/codeSTACKr/3-stats.svg" alt="Daniel's GitHub stats" />
-  <img height="180" src="./profile-summary-card-output/codeSTACKr/1-repos-per-language.svg" alt="Daniel's top languages" />
+  <img height="180" src="./profile-summary-card-output/codeSTACKr/1-repos-per-language.svg" alt="Repo's top languages" />
+  <img height="180" src="./profile-summary-card-output/codeSTACKr/2-most-commit-language.svg" alt="Commit's top languages" />
 </p>
 
 <p align="center">
   <img src="./profile-summary-card-output/codeSTACKr/0-profile-details.svg" alt="Daniel's GitHub contribution summary" width="96%" />
 </p>
+
 
 ## Connect
 
