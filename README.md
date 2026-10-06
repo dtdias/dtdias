@@ -7,10 +7,10 @@
   <span>&nbsp;·&nbsp;</span>
   <a href="https://www.linkedin.com/in/danieltrajanod/">LinkedIn</a>
   <span>&nbsp;·&nbsp;</span>
-  <a href="mailto:daniel@trajano.dev.br>E-mail</a>
+  <a href="mailto:daniel@trajano.dev.br">E-mail</a>
 </p>
 
-<h1 align="center">Seja bem vindo ao meu perfil!.</h1>
+<h1 align="center">Seja bem vindo ao meu perfil!</h1>
 
 <p align="center">
   Construo produtos web, ferramentas de automação e fluxos confiáveis.<br />
