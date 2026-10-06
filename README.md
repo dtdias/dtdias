@@ -7,7 +7,7 @@
   <span>&nbsp;·&nbsp;</span>
   <a href="https://www.linkedin.com/in/danieltrajanod/">LinkedIn</a>
   <span>&nbsp;·&nbsp;</span>
-  <a href="mailto:danieltrajano.d@gmail.com">E-mail</a>
+  <a href="mailto:daniel@trajano.dev.br>E-mail</a>
 </p>
 
 <h1 align="center">Seja bem vindo ao meu perfil!.</h1>
