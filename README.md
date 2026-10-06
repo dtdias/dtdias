@@ -27,7 +27,7 @@
 
 - Produtos que transformam trabalho operacional em fluxos claros.
 - Automações que removem etapas repetitivas e facilitam decisões.
-- Sistemas full stack com limites sólidos para dados, acesso e entrega.
+- Sistemas full stack com qualidade e sólidos para dados, acesso e entrega.
 
 ## Projetos em destaque
 
