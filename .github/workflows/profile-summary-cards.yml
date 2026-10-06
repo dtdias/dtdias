@@ -34,3 +34,5 @@ jobs:
           UTC_OFFSET: -3
           AUTO_PUSH: true
           THEME: codeSTACKr
+          ANIMATION: load
+          DURATION: "2.5"
