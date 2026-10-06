@@ -7,7 +7,7 @@
   <span>&nbsp;·&nbsp;</span>
   <a href="https://www.linkedin.com/in/danieltrajanod/">LinkedIn</a>
   <span>&nbsp;·&nbsp;</span>
-  <a href="mailto:danieltrajano.d@gmail.com">Email</a>
+  <a href="mailto:daniel@trajano.dev.br">Email</a>
 </p>
 
 <h1 align="center">Welcome to my profile!</h1>
@@ -95,7 +95,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/danieltrajanod/">LinkedIn</a> ·
-  <a href="mailto:danieltrajano.d@gmail.com">danieltrajano.d@gmail.com</a>
+  <a href="mailto:danieltrajano.d@gmail.com">daniel@trajano.dev.br</a>
 </p>
 
 <p><sub>Open to thoughtful conversations about software, products, and engineering.</sub></p>
