@@ -93,7 +93,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/danieltrajanod/">LinkedIn</a> ·
-  <a href="mailto:danieltrajano.d@gmail.com">danieltrajano.d@gmail.com</a>
+  <a href="mailto:danieltrajano.d@gmail.com">daniel@trajano.dev.br</a>
 </p>
 
 <p><sub>Aberto a boas conversas sobre software, produtos e engenharia.</sub></p>
