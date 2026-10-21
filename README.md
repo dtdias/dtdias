@@ -54,11 +54,10 @@
       <a href="https://github.com/dtdias/find-engineering-price">Ver repositório</a>
     </td>
     <td width="50%" valign="top">
-                             <h3><a href="https://github.com/dtdias/mercadovoz-pwa">MercadoVoz PWA</a></h3>
-                                   <p>Aplicação PWA para lista de compras e mercado por voz.</p>
-                                   <p><code>PWA</code> <code>React</code> <code>TypeScript</code></p>
-            <a href="https://lista.trajan.dev.br">Abrir projeto</a>o
-                  
+                 <h3><a href="https://github.com/dtdias/mercadovoz-pwa">MercadoVoz PWA</a></h3>
+            <p>Aplicação PWA para lista de compras e mercado por voz.</p>
+            <p><code>PWA</code> <code>React</code> <code>TypeScript</code></p>
+            <a href="https://lista.trajano.dev.br">Abrir projeto</a>
     </td>
   </tr>
 </table>
