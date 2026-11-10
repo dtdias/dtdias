@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="0 0 1200 600">
+  <title>Status Board — Featured project cover</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Midnight_canvas" data-name="Midnight canvas" d="M0 0 L1200 0 L1200 600 L0 600 Z" fill="#07131f"/>
+    <path id="Coral_ambient_glow" data-name="Coral ambient glow" d="M775 110 C775 -44.64 900.36 -170 1055 -170 C1209.64 -170 1335 -44.64 1335 110 C1335 264.64 1209.64 390 1055 390 C900.36 390 775 264.64 775 110 Z" fill="#ff652f" opacity="0.1"/>
+    <path id="Gold_ambient_glow" data-name="Gold ambient glow" d="M880 550 C880 434.02 974.02 340 1090 340 C1205.98 340 1300 434.02 1300 550 C1300 665.98 1205.98 760 1090 760 C974.02 760 880 665.98 880 550 Z" fill="#ffe400" opacity="0.07"/>
+    <path id="Canvas_frame" data-name="Canvas frame" d="M0 0 L1200 0 L1200 600 L0 600 Z" fill="none" stroke="#1c3544" stroke-miterlimit="10"/>
+    <path d="M82 72 L126 72 C127.105 72 128 72.895 128 74 L128 75 C128 76.105 127.105 77 126 77 L82 77 C80.895 77 80 76.105 80 75 L80 74 C80 72.895 80.895 72 82 72 Z" fill="#ff652f"/>
+    <text transform="matrix(1 0 0 1 80 119)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#ffb4a0"><tspan x="0" y="0">PRODUCT  /  01</tspan></text>
+    <text transform="matrix(1 0 0 1 80 218)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="52" font-weight="bold" fill="#f7fafc"><tspan x="0" y="0">Status Board</tspan></text>
+    <text transform="matrix(1 0 0 1 82 266)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="22" fill="#b7c7d2"><tspan x="0" y="0">Weekly operations,</tspan><tspan x="0" y="26.4">clear decisions.</tspan></text>
+    <path d="M98 410 L178 410 C187.941 410 196 418.059 196 428 L196 428 C196 437.941 187.941 446 178 446 L98 446 C88.059 446 80 437.941 80 428 L80 428 C80 418.059 88.059 410 98 410 Z" fill="#102a3a" stroke="#284858" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 98 434)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="13" font-weight="bold" fill="#dde8ef"><tspan x="0" y="0">REPORTS</tspan></text>
+    <path d="M226 410 L316 410 C325.941 410 334 418.059 334 428 L334 428 C334 437.941 325.941 446 316 446 L226 446 C216.059 446 208 437.941 208 428 L208 428 C208 418.059 216.059 410 226 410 Z" fill="#102a3a" stroke="#284858" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 226 434)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="13" font-weight="bold" fill="#dde8ef"><tspan x="0" y="0">VERSIONED</tspan></text>
+    <path id="Dashboard_frame" data-name="Dashboard frame" d="M552 82 L1098 82 C1110.15 82 1120 91.85 1120 104 L1120 496 C1120 508.15 1110.15 518 1098 518 L552 518 C539.85 518 530 508.15 530 496 L530 104 C530 91.85 539.85 82 552 82 Z" fill="#0c1f2c" stroke="#315061" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path d="M562 102 L1088 102 C1094.627 102 1100 107.373 1100 114 L1100 148 C1100 154.627 1094.627 160 1088 160 L562 160 C555.373 160 550 154.627 550 148 L550 114 C550 107.373 555.373 102 562 102 Z" fill="#102a3a"/>
+    <path d="M570 126.5 C570 124.015 572.015 122 574.5 122 C576.985 122 579 124.015 579 126.5 C579 128.985 576.985 131 574.5 131 C572.015 131 570 128.985 570 126.5 Z" fill="#ff652f"/>
+    <path d="M588 126.5 C588 124.015 590.015 122 592.5 122 C594.985 122 597 124.015 597 126.5 C597 128.985 594.985 131 592.5 131 C590.015 131 588 128.985 588 126.5 Z" fill="#ffe400"/>
+    <path d="M606 126.5 C606 124.015 608.015 122 610.5 122 C612.985 122 615 124.015 615 126.5 C615 128.985 612.985 131 610.5 131 C608.015 131 606 128.985 606 126.5 Z" fill="#60d394"/>
+    <text transform="matrix(1 0 0 1 636 139)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#dde8ef"><tspan x="0" y="0">WEEKLY OVERVIEW</tspan></text>
+    <text transform="matrix(1 0 0 1 1007 139)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="11" font-weight="bold" fill="#8ba1b0"><tspan x="0" y="0">THIS WEEK</tspan></text>
+    <path d="M562 178 L704 178 C710.627 178 716 183.373 716 190 L716 249 C716 255.627 710.627 261 704 261 L562 261 C555.373 261 550 255.627 550 249 L550 190 C550 183.373 555.373 178 562 178 Z" fill="#112b3a" stroke="#234353" stroke-miterlimit="10"/>
+    <path d="M742 178 L884 178 C890.627 178 896 183.373 896 190 L896 249 C896 255.627 890.627 261 884 261 L742 261 C735.373 261 730 255.627 730 249 L730 190 C730 183.373 735.373 178 742 178 Z" fill="#112b3a" stroke="#234353" stroke-miterlimit="10"/>
+    <path d="M922 178 L1088 178 C1094.627 178 1100 183.373 1100 190 L1100 249 C1100 255.627 1094.627 261 1088 261 L922 261 C915.373 261 910 255.627 910 249 L910 190 C910 183.373 915.373 178 922 178 Z" fill="#112b3a" stroke="#234353" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 570 207)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="11" font-weight="bold" fill="#8ba1b0"><tspan x="0" y="0">DELIVERED</tspan></text>
+    <text transform="matrix(1 0 0 1 570 244)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="30" font-weight="bold" fill="#ffffff"><tspan x="0" y="0">24</tspan></text>
+    <text transform="matrix(1 0 0 1 750 207)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="11" font-weight="bold" fill="#8ba1b0"><tspan x="0" y="0">ON TRACK</tspan></text>
+    <text transform="matrix(1 0 0 1 750 244)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="30" font-weight="bold" fill="#60d394"><tspan x="0" y="0">92%</tspan></text>
+    <text transform="matrix(1 0 0 1 930 207)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="11" font-weight="bold" fill="#8ba1b0"><tspan x="0" y="0">NEXT REPORT</tspan></text>
+    <text transform="matrix(1 0 0 1 930 244)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="24" font-weight="bold" fill="#ffffff"><tspan x="0" y="0">Friday</tspan></text>
+    <path d="M562 279 L868 279 C874.627 279 880 284.373 880 291 L880 485 C880 491.627 874.627 497 868 497 L562 497 C555.373 497 550 491.627 550 485 L550 291 C550 284.373 555.373 279 562 279 Z" fill="#0e2634" stroke="#234353" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 570 307)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#a7bac6"><tspan x="0" y="0">DELIVERY PACE</tspan></text>
+    <path d="M575 456 L855 456" fill="none" stroke="#345161" stroke-miterlimit="10"/>
+    <path d="M575 407 L855 407" fill="none" stroke="#223d4d" stroke-miterlimit="10"/>
+    <path d="M575 358 L855 358" fill="none" stroke="#223d4d" stroke-miterlimit="10"/>
+    <path d="M597 412 L621 412 C623.761 412 626 414.239 626 417 L626 451 C626 453.761 623.761 456 621 456 L597 456 C594.239 456 592 453.761 592 451 L592 417 C592 414.239 594.239 412 597 412 Z" fill="#ff652f"/>
+    <path d="M645 384 L669 384 C671.761 384 674 386.239 674 389 L674 451 C674 453.761 671.761 456 669 456 L645 456 C642.239 456 640 453.761 640 451 L640 389 C640 386.239 642.239 384 645 384 Z" fill="#ff8a65"/>
+    <path d="M693 397 L717 397 C719.761 397 722 399.239 722 402 L722 451 C722 453.761 719.761 456 717 456 L693 456 C690.239 456 688 453.761 688 451 L688 402 C688 399.239 690.239 397 693 397 Z" fill="#ff652f"/>
+    <path d="M741 351 L765 351 C767.761 351 770 353.239 770 356 L770 451 C770 453.761 767.761 456 765 456 L741 456 C738.239 456 736 453.761 736 451 L736 356 C736 353.239 738.239 351 741 351 Z" fill="#ffe400"/>
+    <path d="M789 330 L813 330 C815.761 330 818 332.239 818 335 L818 451 C818 453.761 815.761 456 813 456 L789 456 C786.239 456 784 453.761 784 451 L784 335 C784 332.239 786.239 330 789 330 Z" fill="#60d394"/>
+    <path d="M910 279 L1088 279 C1094.627 279 1100 284.373 1100 291 L1100 485 C1100 491.627 1094.627 497 1088 497 L910 497 C903.373 497 898 491.627 898 485 L898 291 C898 284.373 903.373 279 910 279 Z" fill="#0e2634" stroke="#234353" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 918 307)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#a7bac6"><tspan x="0" y="0">MILESTONES</tspan></text>
+    <path d="M933 346 L933 462" fill="none" stroke="#315061" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M925 349 C925 344.582 928.582 341 933 341 C937.418 341 941 344.582 941 349 C941 353.418 937.418 357 933 357 C928.582 357 925 353.418 925 349 Z" fill="#60d394"/>
+    <path d="M925 392 C925 387.582 928.582 384 933 384 C937.418 384 941 387.582 941 392 C941 396.418 937.418 400 933 400 C928.582 400 925 396.418 925 392 Z" fill="#ffe400"/>
+    <path d="M925 435 C925 430.582 928.582 427 933 427 C937.418 427 941 430.582 941 435 C941 439.418 937.418 443 933 443 C928.582 443 925 439.418 925 435 Z" fill="#ff652f"/>
+    <text transform="matrix(1 0 0 1 955 355)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="14" fill="#dde8ef"><tspan x="0" y="0">Planning</tspan></text>
+    <text transform="matrix(1 0 0 1 955 398)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="14" fill="#dde8ef"><tspan x="0" y="0">Review</tspan></text>
+    <text transform="matrix(1 0 0 1 955 441)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="14" fill="#dde8ef"><tspan x="0" y="0">Publish</tspan></text>
+  </g>
+</svg>

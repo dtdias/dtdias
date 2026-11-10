@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="0 0 1200 600">
+  <title>MercadoVoz — Featured project cover</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Midnight_canvas" data-name="Midnight canvas" d="M0 0 L1200 0 L1200 600 L0 600 Z" fill="#071a1e"/>
+    <path id="Teal_ambient_glow" data-name="Teal ambient glow" d="M825 135 C825 -5.833 939.167 -120 1080 -120 C1220.833 -120 1335 -5.833 1335 135 C1335 275.833 1220.833 390 1080 390 C939.167 390 825 275.833 825 135 Z" fill="#18bfa4" opacity="0.1"/>
+    <path id="Coral_ambient_glow" data-name="Coral ambient glow" d="M810 545 C810 431.782 924.167 340 1065 340 C1205.833 340 1320 431.782 1320 545 C1320 658.218 1205.833 750 1065 750 C924.167 750 810 658.218 810 545 Z" fill="#ff8d5f" opacity="0.08"/>
+    <path id="Canvas_frame" data-name="Canvas frame" d="M0 0 L1200 0 L1200 600 L0 600 Z" fill="none" stroke="#1d3c3d" stroke-miterlimit="10"/>
+    <path d="M82 72 L126 72 C127.105 72 128 72.895 128 74 L128 75 C128 76.105 127.105 77 126 77 L82 77 C80.895 77 80 76.105 80 75 L80 74 C80 72.895 80.895 72 82 72 Z" fill="#37d8b7"/>
+    <text transform="matrix(1 0 0 1 80 119)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#93f4dd"><tspan x="0" y="0">PRODUCT  /  04</tspan></text>
+    <text transform="matrix(1 0 0 1 80 218)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="52" font-weight="bold" fill="#f5faf8"><tspan x="0" y="0">MercadoVoz</tspan></text>
+    <text transform="matrix(1 0 0 1 82 266)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="22" fill="#b6cbc6"><tspan x="0" y="0">A shopping list</tspan><tspan x="0" y="26.4">that listens.</tspan></text>
+    <path d="M98 410 L176 410 C185.941 410 194 418.059 194 428 L194 428 C194 437.941 185.941 446 176 446 L98 446 C88.059 446 80 437.941 80 428 L80 428 C80 418.059 88.059 410 98 410 Z" fill="#103439" stroke="#285451" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 99 434)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="13" font-weight="bold" fill="#d9fff4"><tspan x="0" y="0">VOICE-FIRST</tspan></text>
+    <path d="M223 410 L297 410 C306.941 410 315 418.059 315 428 L315 428 C315 437.941 306.941 446 297 446 L223 446 C213.059 446 205 437.941 205 428 L205 428 C205 418.059 213.059 410 223 410 Z" fill="#103439" stroke="#285451" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 224 434)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="13" font-weight="bold" fill="#d9fff4"><tspan x="0" y="0">PWA</tspan></text>
+    <path id="Shopping_illustration_field" data-name="Shopping illustration field" d="M609 82 L1106 82 C1119.255 82 1130 92.745 1130 106 L1130 494 C1130 507.255 1119.255 518 1106 518 L609 518 C595.745 518 585 507.255 585 494 L585 106 C585 92.745 595.745 82 609 82 Z" fill="#0a2428" stroke="#28504f" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Cart_handle" data-name="Cart handle" d="M675 165 C712 165 724 184 739 226 L1065 226" fill="none" stroke="#37d8b7" stroke-width="12" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Shopping_basket" data-name="Shopping basket" d="M751 245 L1047 245 L1008 367 L782 367 Z" fill="#103a3b" stroke="#47cbb1" stroke-width="3" stroke-miterlimit="10"/>
+    <path d="M771 284 L1035 284" fill="none" stroke="#28635d" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M785 326 L1022 326" fill="none" stroke="#28635d" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M851 249 L875 363" fill="none" stroke="#28635d" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M928 249 L931 363" fill="none" stroke="#28635d" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M1000 249 L980 363" fill="none" stroke="#28635d" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Left_wheel" data-name="Left wheel" d="M795 405 C795 391.193 806.193 380 820 380 C833.807 380 845 391.193 845 405 C845 418.807 833.807 430 820 430 C806.193 430 795 418.807 795 405 Z" fill="#102e32" stroke="#37d8b7" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Right_wheel" data-name="Right wheel" d="M971 405 C971 391.193 982.193 380 996 380 C1009.807 380 1021 391.193 1021 405 C1021 418.807 1009.807 430 996 430 C982.193 430 971 418.807 971 405 Z" fill="#102e32" stroke="#37d8b7" stroke-width="6" stroke-miterlimit="10"/>
+    <path id="Orange" d="M822 295.5 C822 278.103 836.103 264 853.5 264 C870.897 264 885 278.103 885 295.5 C885 312.897 870.897 327 853.5 327 C836.103 327 822 312.897 822 295.5 Z" fill="#ff8d5f" stroke="#ffd1b4" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Orange_leaf" data-name="Orange leaf" d="M851 267 C849 246 862 236 880 238 C875 254 865 263 851 267 Z" fill="#69d391"/>
+    <path id="Lemon" d="M892 308 C892 289.775 906.775 275 925 275 C943.225 275 958 289.775 958 308 C958 326.225 943.225 341 925 341 C906.775 341 892 326.225 892 308 Z" fill="#ffd166" stroke="#ffeab1" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Apple" d="M960 298 C960 278.118 976.118 262 996 262 C1015.882 262 1032 278.118 1032 298 C1032 317.882 1015.882 334 996 334 C976.118 334 960 317.882 960 298 Z" fill="#d46e65" stroke="#f3a39b" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Apple_leaf" data-name="Apple leaf" d="M994 266 C992 246 1007 238 1023 242 C1018 256 1008 264 994 266 Z" fill="#78d59c"/>
+    <path id="Voice_prompt_pill" data-name="Voice prompt pill" d="M645 445 L860 445 C868.284 445 875 451.716 875 460 L875 478 C875 486.284 868.284 493 860 493 L645 493 C636.716 493 630 486.284 630 478 L630 460 C630 451.716 636.716 445 645 445 Z" fill="#102f33" stroke="#2b5653" stroke-miterlimit="10"/>
+    <path id="Microphone_button" data-name="Microphone button" d="M649 468 C649 462.477 653.477 458 659 458 C664.523 458 669 462.477 669 468 C669 473.523 664.523 478 659 478 C653.477 478 649 473.523 649 468 Z" fill="#ff8d5f"/>
+    <path id="Microphone_glyph" data-name="Microphone glyph" d="M659 462 L659 471 M654 467 C654 469.761 656.239 472 659 472 C661.761 472 664 469.761 664 467 M659 472 L659 475 M655 475 L663 475" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 684 475)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="15" fill="#e4f4ef"><tspan x="0" y="0">“Add tomatoes”</tspan></text>
+    <path id="Voice_waves" data-name="Voice waves" d="M927 156 C943 140 943 116 927 100 M953 169 C978 141 978 115 953 87 M980 180 C1013 142 1013 113 980 75" fill="none" stroke="#69e0c5" stroke-width="5" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path d="M1078.485 128.515 L1075 137 L1078.485 145.485 L1070 142 L1061.515 145.485 L1065 137 L1061.515 128.515 L1070 132 Z" fill="#ffd166"/>
+    <path d="M704 306 C704 303.791 705.791 302 708 302 C710.209 302 712 303.791 712 306 C712 308.209 710.209 310 708 310 C705.791 310 704 308.209 704 306 Z" fill="#ffd166"/>
+    <path d="M1084 408.5 C1084 406.015 1086.015 404 1088.5 404 C1090.985 404 1093 406.015 1093 408.5 C1093 410.985 1090.985 413 1088.5 413 C1086.015 413 1084 410.985 1084 408.5 Z" fill="#ff8d5f"/>
+  </g>
+</svg>

@@ -34,12 +34,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/dtdias/status-board"><img src="./assets/status-board-cover.svg" alt="Status Board dashboard for weekly reports and delivery tracking" width="100%" /></a>
       <h3><a href="https://github.com/dtdias/status-board">Status Board</a></h3>
       <p>Turns weekly operational work into clear, editable, versioned PPTX reports.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code></p>
       <a href="https://statusboard.trajano.dev.br/login">Open project</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/dtdias/BidInAction"><img src="./assets/bid-in-action-cover.svg" alt="BidInAction illustration of a gemstone and auction gavel" width="100%" /></a>
       <h3><a href="https://github.com/dtdias/BidInAction">BidInAction</a></h3>
       <p>Desktop tool for filtering jewelry auctions from the Caixa auction portal.</p>
       <p><code>Python</code> <code>PySide6</code> <code>Requests</code></p>
@@ -48,15 +50,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/dtdias/find-engineering-price">Find Engineering Price</a></h3>
-      <p>Development environment project exploring application tooling and automation.</p>
-      <p><code>EJS</code> <code>JavaScript</code> <code>Docker</code></p>
-      <a href="https://github.com/dtdias/find-engineering-price">View repository</a>
+      <a href="https://github.com/dtdias/neural-meter"><img src="./assets/neural-meter-cover.svg" alt="NeuralMeter HUD tracking AI usage limits" width="100%" /></a>
+      <h3><a href="https://github.com/dtdias/neural-meter">NeuralMeter</a></h3>
+      <p>Local monitor for Claude and ChatGPT 5-hour and weekly usage limits; prompt text is never stored.</p>
+      <p><code>Python</code> <code>PySide6</code> <code>SQLite</code> <code>Manifest V3</code></p>
+      <a href="https://github.com/dtdias/neural-meter">View repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Now</h3>
-      <p>Shaping practical software with a balance of product thinking, clean interfaces, and dependable engineering.</p>
-      <p><code>Build</code> <code>Learn</code> <code>Improve</code></p>
+      <a href="https://github.com/dtdias/mercadovoz-pwa"><img src="./assets/mercadovoz-cover.svg" alt="MercadoVoz shopping cart controlled by voice" width="100%" /></a>
+      <h3><a href="https://github.com/dtdias/mercadovoz-pwa">MercadoVoz PWA</a></h3>
+      <p>Voice-powered PWA for grocery lists and shopping.</p>
+      <p><code>PWA</code> <code>React</code> <code>TypeScript</code></p>
+      <a href="https://lista.trajano.dev.br">Open project</a>
     </td>
   </tr>
 </table>
