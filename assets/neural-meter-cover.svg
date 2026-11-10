@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="0 0 1200 600">
+  <title>neural-meter-cover.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Midnight_canvas" data-name="Midnight canvas" d="M0 0 L1200 0 L1200 600 L0 600 Z" fill="#06191f"/>
+    <path id="Mint_ambient_glow" data-name="Mint ambient glow" d="M860 90 C860 -48.071 971.929 -160 1110 -160 C1248.071 -160 1360 -48.071 1360 90 C1360 228.071 1248.071 340 1110 340 C971.929 340 860 228.071 860 90 Z" fill="#19d3b0" opacity="0.1"/>
+    <path id="Blue_ambient_glow" data-name="Blue ambient glow" d="M780 560 C780 455.066 891.929 370 1030 370 C1168.071 370 1280 455.066 1280 560 C1280 664.934 1168.071 750 1030 750 C891.929 750 780 664.934 780 560 Z" fill="#24a7d1" opacity="0.08"/>
+    <path id="Canvas_frame" data-name="Canvas frame" d="M0 0 L1200 0 L1200 600 L0 600 Z" fill="none" stroke="#1d3a40" stroke-miterlimit="10"/>
+    <path d="M82 72 L126 72 C127.105 72 128 72.895 128 74 L128 75 C128 76.105 127.105 77 126 77 L82 77 C80.895 77 80 76.105 80 75 L80 74 C80 72.895 80.895 72 82 72 Z" fill="#36e0be"/>
+    <text transform="matrix(1 0 0 1 80 119)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#8cf4de"><tspan x="0" y="0">PRODUCT  /  03</tspan></text>
+    <text transform="matrix(1 0 0 1 80 218)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="52" font-weight="bold" fill="#f6fbfa"><tspan x="0" y="0">NeuralMeter</tspan></text>
+    <text transform="matrix(1 0 0 1 82 266)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="22" fill="#b7cbcb"><tspan x="0" y="0">Local AI usage,</tspan><tspan x="0" y="26.4">visible before the limit.</tspan></text>
+    <path d="M98 410 L188 410 C197.941 410 206 418.059 206 428 L206 428 C206 437.941 197.941 446 188 446 L98 446 C88.059 446 80 437.941 80 428 L80 428 C80 418.059 88.059 410 98 410 Z" fill="#102d33" stroke="#285057" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 99 434)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="13" font-weight="bold" fill="#d4fff5"><tspan x="0" y="0">LOCAL-FIRST</tspan></text>
+    <path d="M235 410 L327 410 C336.941 410 345 418.059 345 428 L345 428 C345 437.941 336.941 446 327 446 L235 446 C225.059 446 217 437.941 217 428 L217 428 C217 418.059 225.059 410 235 410 Z" fill="#102d33" stroke="#285057" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 236 434)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="13" font-weight="bold" fill="#d4fff5"><tspan x="0" y="0">ZERO-TOKEN</tspan></text>
+    <path id="HUD_frame" data-name="HUD frame" d="M574 82 L1106 82 C1119.255 82 1130 92.745 1130 106 L1130 494 C1130 507.255 1119.255 518 1106 518 L574 518 C560.745 518 550 507.255 550 494 L550 106 C550 92.745 560.745 82 574 82 Z" fill="#0a2228" stroke="#285057" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path d="M585 104 L1095 104 C1102.18 104 1108 109.82 1108 117 L1108 145 C1108 152.18 1102.18 158 1095 158 L585 158 C577.82 158 572 152.18 572 145 L572 117 C572 109.82 577.82 104 585 104 Z" fill="#103038"/>
+    <path d="M593 131 C593 128.239 595.239 126 598 126 C600.761 126 603 128.239 603 131 C603 133.761 600.761 136 598 136 C595.239 136 593 133.761 593 131 Z" fill="#36e0be"/>
+    <text transform="matrix(1 0 0 1 617 141)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#e6fffa"><tspan x="0" y="0">NEURALMETER  /  LIVE HUD</tspan></text>
+    <path d="M1018 116 L1073 116 C1080.732 116 1087 122.268 1087 130 L1087 131 C1087 138.732 1080.732 145 1073 145 L1018 145 C1010.268 145 1004 138.732 1004 131 L1004 130 C1004 122.268 1010.268 116 1018 116 Z" fill="#123f3d" stroke="#276a5a" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 1021 136)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="11" font-weight="bold" fill="#71e7c7"><tspan x="0" y="0">LOCAL</tspan></text>
+    <path d="M612 310.5 C612 240.084 669.084 183 739.5 183 C809.916 183 867 240.084 867 310.5 C867 380.916 809.916 438 739.5 438 C669.084 438 612 380.916 612 310.5 Z" fill="#0d292f" stroke="#1d4147" stroke-miterlimit="10"/>
+    <path d="M646 310.5 C646 258.861 687.861 217 739.5 217 C791.139 217 833 258.861 833 310.5 C833 362.139 791.139 404 739.5 404 C687.861 404 646 362.139 646 310.5 Z" fill="none" stroke="#1d4247" stroke-width="17" stroke-miterlimit="10"/>
+    <path id="Five-hour_usage_arc" data-name="Five-hour usage arc" d="M739 225 C782.736 225.349 819.244 258.469 823.838 301.964 C828.432 345.459 799.648 385.475 756.95 394.954 C714.253 404.432 671.241 380.354 657 339" fill="none" stroke="#36e0be" stroke-width="17" stroke-linecap="round" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 739 299)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="39" font-weight="bold" fill="#f6fbfa" text-anchor="middle"><tspan x="0" y="0">68%</tspan></text>
+    <text transform="matrix(1 0 0 1 739 331)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="11" font-weight="bold" fill="#8ea9aa" text-anchor="middle"><tspan x="0" y="0">5H WINDOW</tspan></text>
+    <path d="M905 183 L1093 183 C1101.284 183 1108 189.716 1108 198 L1108 288 C1108 296.284 1101.284 303 1093 303 L905 303 C896.716 303 890 296.284 890 288 L890 198 C890 189.716 896.716 183 905 183 Z" fill="#102d33" stroke="#25464c" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 914 211)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#8ea9aa"><tspan x="0" y="0">WEEKLY USAGE</tspan></text>
+    <text transform="matrix(1 0 0 1 914 257)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="33" font-weight="bold" fill="#f6fbfa"><tspan x="0" y="0">42%</tspan></text>
+    <path d="M1012 235 L1074 235 C1076.761 235 1079 237.239 1079 240 L1079 240 C1079 242.761 1076.761 245 1074 245 L1012 245 C1009.239 245 1007 242.761 1007 240 L1007 240 C1007 237.239 1009.239 235 1012 235 Z" fill="#1e484a"/>
+    <path d="M1012 235 L1033 235 C1035.761 235 1038 237.239 1038 240 L1038 240 C1038 242.761 1035.761 245 1033 245 L1012 245 C1009.239 245 1007 242.761 1007 240 L1007 240 C1007 237.239 1009.239 235 1012 235 Z" fill="#36e0be"/>
+    <path d="M905 319 L1093 319 C1101.284 319 1108 325.716 1108 334 L1108 423 C1108 431.284 1101.284 438 1093 438 L905 438 C896.716 438 890 431.284 890 423 L890 334 C890 325.716 896.716 319 905 319 Z" fill="#102d33" stroke="#25464c" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 914 348)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#8ea9aa"><tspan x="0" y="0">PROVIDERS</tspan></text>
+    <path d="M924 368 L984 368 C989.523 368 994 372.477 994 378 L994 400 C994 405.523 989.523 410 984 410 L924 410 C918.477 410 914 405.523 914 400 L914 378 C914 372.477 918.477 368 924 368 Z" fill="#123b3a" stroke="#28665a" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 929 395)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#9af3d8"><tspan x="0" y="0">CLAUDE</tspan></text>
+    <path d="M1013 368 L1077 368 C1082.523 368 1087 372.477 1087 378 L1087 400 C1087 405.523 1082.523 410 1077 410 L1013 410 C1007.477 410 1003 405.523 1003 400 L1003 378 C1003 372.477 1007.477 368 1013 368 Z" fill="#152f48" stroke="#315978" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 1017 395)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="11" font-weight="bold" fill="#a6d8f4"><tspan x="0" y="0">CHATGPT</tspan></text>
+    <path d="M620 464 L1060 464" fill="none" stroke="#1d4147" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 622 492)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="13" fill="#8ea9aa"><tspan x="0" y="0">5-hour window  ·  weekly limit  ·  private by design</tspan></text>
+    <path d="M1072 481 C1072 478.791 1073.791 477 1076 477 C1078.209 477 1080 478.791 1080 481 C1080 483.209 1078.209 485 1076 485 C1073.791 485 1072 483.209 1072 481 Z" fill="#36e0be"/>
+  </g>
+</svg>

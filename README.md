@@ -34,12 +34,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/dtdias/status-board"><img src="./assets/status-board-cover.svg" alt="Dashboard do Status Board para relatórios e acompanhamento semanal" width="100%" /></a>
       <h3><a href="https://github.com/dtdias/status-board">Status Board</a></h3>
       <p>Transforma o trabalho operacional semanal em relatórios PPTX claros, editáveis e versionados.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code></p>
       <a href="https://statusboard.trajano.dev.br/login">Abrir projeto</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/dtdias/BidInAction"><img src="./assets/bid-in-action-cover.svg" alt="Ilustração de joia e martelo de leilão do BidInAction" width="100%" /></a>
       <h3><a href="https://github.com/dtdias/BidInAction">BidInAction</a></h3>
       <p>Ferramenta desktop para filtrar leilões de joias no portal de leilões da Caixa.</p>
       <p><code>Python</code> <code>PySide6</code> <code>Requests</code></p>
@@ -48,16 +50,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/dtdias/find-engineering-price">Find Engineering Price</a></h3>
-      <p>Projeto de ambiente de desenvolvimento explorando ferramentas e automação de aplicações.</p>
-      <p><code>EJS</code> <code>JavaScript</code> <code>Docker</code></p>
-      <a href="https://github.com/dtdias/find-engineering-price">Ver repositório</a>
+      <a href="https://github.com/dtdias/neural-meter"><img src="./assets/neural-meter-cover.svg" alt="HUD do NeuralMeter monitorando cotas de uso de IA" width="100%" /></a>
+      <h3><a href="https://github.com/dtdias/neural-meter">NeuralMeter</a></h3>
+      <p>Monitor local das cotas de 5 horas e semanais do Claude e do ChatGPT, sem registrar o texto dos prompts.</p>
+      <p><code>Python</code> <code>PySide6</code> <code>SQLite</code> <code>Manifest V3</code></p>
+      <a href="https://github.com/dtdias/neural-meter">Ver repositório</a>
     </td>
     <td width="50%" valign="top">
-                 <h3><a href="https://github.com/dtdias/mercadovoz-pwa">MercadoVoz PWA</a></h3>
-            <p>Aplicação PWA para lista de compras e mercado por voz.</p>
-            <p><code>PWA</code> <code>React</code> <code>TypeScript</code></p>
-            <a href="https://lista.trajano.dev.br">Abrir projeto</a>
+      <a href="https://github.com/dtdias/mercadovoz-pwa"><img src="./assets/mercadovoz-cover.svg" alt="Carrinho de compras com comando de voz do MercadoVoz" width="100%" /></a>
+      <h3><a href="https://github.com/dtdias/mercadovoz-pwa">MercadoVoz PWA</a></h3>
+      <p>Aplicação PWA para lista de compras e mercado por voz.</p>
+      <p><code>PWA</code> <code>React</code> <code>TypeScript</code></p>
+      <a href="https://lista.trajano.dev.br">Abrir projeto</a>
     </td>
   </tr>
 </table>

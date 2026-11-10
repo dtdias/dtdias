@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="0 0 1200 600">
+  <title>BidInAction — Featured project cover</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path id="Midnight_canvas" data-name="Midnight canvas" d="M0 0 L1200 0 L1200 600 L0 600 Z" fill="#10121f"/>
+    <path id="Violet_ambient_glow" data-name="Violet ambient glow" d="M850 160 C850 27.452 957.452 -80 1090 -80 C1222.548 -80 1330 27.452 1330 160 C1330 292.548 1222.548 400 1090 400 C957.452 400 850 292.548 850 160 Z" fill="#7b4dff" opacity="0.09"/>
+    <path id="Gold_ambient_glow" data-name="Gold ambient glow" d="M720 545 C720 440.066 838.645 355 985 355 C1131.355 355 1250 440.066 1250 545 C1250 649.934 1131.355 735 985 735 C838.645 735 720 649.934 720 545 Z" fill="#f0aa45" opacity="0.08"/>
+    <path id="Canvas_frame" data-name="Canvas frame" d="M0 0 L1200 0 L1200 600 L0 600 Z" fill="none" stroke="#292a3d" stroke-miterlimit="10"/>
+    <path d="M82 72 L126 72 C127.105 72 128 72.895 128 74 L128 75 C128 76.105 127.105 77 126 77 L82 77 C80.895 77 80 76.105 80 75 L80 74 C80 72.895 80.895 72 82 72 Z" fill="#e8b45e"/>
+    <text transform="matrix(1 0 0 1 80 119)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#f3d596"><tspan x="0" y="0">PRODUCT  /  02</tspan></text>
+    <text transform="matrix(1 0 0 1 80 218)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="52" font-weight="bold" fill="#ffffff"><tspan x="0" y="0">BidInAction</tspan></text>
+    <text transform="matrix(1 0 0 1 82 266)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="22" fill="#bfc2d2"><tspan x="0" y="0">Jewelry auctions,</tspan><tspan x="0" y="26.4">searched with focus.</tspan></text>
+    <path d="M98 410 L201 410 C210.941 410 219 418.059 219 428 L219 428 C219 437.941 210.941 446 201 446 L98 446 C88.059 446 80 437.941 80 428 L80 428 C80 418.059 88.059 410 98 410 Z" fill="#232337" stroke="#464258" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 99 434)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="13" font-weight="bold" fill="#e4dfff"><tspan x="0" y="0">SMART FILTERS</tspan></text>
+    <path d="M248 410 L330 410 C339.941 410 348 418.059 348 428 L348 428 C348 437.941 339.941 446 330 446 L248 446 C238.059 446 230 437.941 230 428 L230 428 C230 418.059 238.059 410 248 410 Z" fill="#232337" stroke="#464258" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 250 434)" x="0" y="0" xml:space="preserve" font-family="Inter, sans-serif" font-size="13" font-weight="bold" fill="#e4dfff"><tspan x="0" y="0">CAIXA LOTS</tspan></text>
+    <path id="Illustration_field" data-name="Illustration field" d="M655 300 C655 172.975 757.975 70 885 70 C1012.025 70 1115 172.975 1115 300 C1115 427.025 1012.025 530 885 530 C757.975 530 655 427.025 655 300 Z" fill="#17192a" stroke="#45445f" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path id="Gold_ring_outer_band" data-name="Gold ring outer band" d="M738 296 C738 213.157 805.157 146 888 146 C970.843 146 1038 213.157 1038 296 C1038 378.843 970.843 446 888 446 C805.157 446 738 378.843 738 296 Z" fill="none" stroke="#e8b45e" stroke-width="13" stroke-miterlimit="10"/>
+    <path id="Gold_ring_highlight" data-name="Gold ring highlight" d="M766 296 C766 228.621 820.621 174 888 174 C955.379 174 1010 228.621 1010 296 C1010 363.379 955.379 418 888 418 C820.621 418 766 363.379 766 296 Z" fill="none" stroke="#fff0c5" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Sapphire_cut" data-name="Sapphire cut" d="M913.473 53.951 L950.594 90.43 L951.049 142.473 L914.57 179.594 L862.527 180.049 L825.406 143.57 L824.951 91.527 L861.43 54.406 Z" fill="#8ed8e8" stroke="#d8faff" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Sapphire_facets" data-name="Sapphire facets" d="M844 96 L888 61 L932 96 L888 173 Z" fill="#72bbd0" stroke="#d8faff" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Sapphire_facet_lines" data-name="Sapphire facet lines" d="M888 61 L888 173 M844 96 L932 96" fill="none" stroke="#d8faff" stroke-miterlimit="10" opacity="0.6"/>
+    <path id="Gavel_base_top" data-name="Gavel base top" d="M775 478.5 C775 470.492 839.919 464 920 464 C1000.081 464 1065 470.492 1065 478.5 C1065 486.508 1000.081 493 920 493 C839.919 493 775 486.508 775 478.5 Z" fill="#e8b45e"/>
+    <path id="Gavel_base" data-name="Gavel base" d="M813 486 L1027 486 C1031.971 486 1036 490.029 1036 495 L1036 503 C1036 507.971 1031.971 512 1027 512 L813 512 C808.029 512 804 507.971 804 503 L804 495 C804 490.029 808.029 486 813 486 Z" fill="#a87534"/>
+    <path id="Gavel_handle" data-name="Gavel handle" d="M836 370 L1001 516" fill="none" stroke="#f0c36d" stroke-width="24" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path id="Gavel_head" data-name="Gavel head" d="M761 320 L804 277 L906 379 L863 422 Z" fill="#e8b45e" stroke="#ffe2a2" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Gavel_striking_face" data-name="Gavel striking face" d="M753 312 L799 266 L828 295 L782 341 Z" fill="#fff0c5" stroke="#ffe2a2" stroke-width="2" stroke-miterlimit="10"/>
+    <path id="Gavel_cap" data-name="Gavel cap" d="M859 377 L905 331 L934 360 L888 406 Z" fill="#c78e42" stroke="#ffe2a2" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M1051.192 126.808 L1047 136 L1051.192 145.192 L1042 141 L1032.808 145.192 L1037 136 L1032.808 126.808 L1042 131 Z" fill="#fff0c5"/>
+    <path d="M701.364 219.636 L699 226 L701.364 232.364 L695 230 L688.636 232.364 L691 226 L688.636 219.636 L695 222 Z" fill="#e8b45e"/>
+    <path d="M1030 273 C1030 270.791 1031.791 269 1034 269 C1036.209 269 1038 270.791 1038 273 C1038 275.209 1036.209 277 1034 277 C1031.791 277 1030 275.209 1030 273 Z" fill="#8ed8e8"/>
+    <path d="M711 408.5 C711 406.567 712.567 405 714.5 405 C716.433 405 718 406.567 718 408.5 C718 410.433 716.433 412 714.5 412 C712.567 412 711 410.433 711 408.5 Z" fill="#fff0c5"/>
+  </g>
+</svg>
